@@ -1,0 +1,74 @@
+.left-bannar{
+
+    height: 250px;
+    width: 400px;
+}
+.left-bannar h1{
+    font-family: cursive;
+}
+.left-bannar h3{
+    font-family: cursive;
+}
+.left-bannar button{
+    padding: 15px 20px;
+    border: none;
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    font-weight: 500px;
+    color: rgb(239, 241, 241);
+
+}
+.right-bannar img{
+    width: 500px;
+    height: 600px;
+    margin-right: 500px;
+}
+#bannar{
+    padding-left: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.right-bannartwo img{
+    width: 500px;height: 500px;
+}
+.ful-stack h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+
+}
+#visit h1{
+    justify-content: center;
+display: flex;
+color: darkblue;
+}
+.ful-stack{
+    width: 900px;
+    height: 400px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.ful-stack h2{
+    display: flex;
+    justify-content: center;
+    color:brown ;
+}
+.ful-stack span{
+    color: gold;
+margin-left: 350px;
+}
+#visit{
+display: flex;
+justify-content: space-between;
+}
+.baby{
+    width: 900px;
+    height: 400px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.baby h2{
+    display: flex;
+    justify-content: center;
+    color:brown ;
+}
+.baby span{
+    color: gold;
+    margin-left: 350px;
+}
